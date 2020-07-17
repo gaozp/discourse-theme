@@ -1,0 +1,8 @@
+{
+   "name" : "ubuntu theme component",
+   "about_url" : null,
+   "license_url": null,
+   "assets": {
+        "ubuntu": "assets/ubuntu.ttf"
+   }
+}
